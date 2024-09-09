@@ -1,0 +1,19 @@
+.cv-container {
+  border: solid 4px black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 50px;
+  max-width: 700px;
+  align-items: center;
+}
+
+.cv-container h3 {
+  color: green;
+}
+
+.cv-container h2 {
+  color: blue;
+}
+
+.cv-container .div {
+  margin-bottom: 5px;
+}
